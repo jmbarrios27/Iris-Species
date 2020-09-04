@@ -1,4 +1,4 @@
-<h1>Iiris Species Analysis </h1>  
+<h1>Iris Species Analysis </h1>  
 
 ![](/img/iris.png)
 
